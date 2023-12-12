@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "WebinarApp",
+  "display": "standalone",
+  "name": "WebinarApp",
+  "short_name": "WebinarApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
