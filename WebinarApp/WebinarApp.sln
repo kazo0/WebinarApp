@@ -7,23 +7,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{3E83EA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Platforms", "Platforms", "{3F1E8081-E00A-408F-86EA-502F793CA4A7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp", "WebinarApp\WebinarApp\WebinarApp.csproj", "{2587B032-DC31-42A9-80D1-93A5F9F18111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp", "WebinarApp\WebinarApp.csproj", "{2587B032-DC31-42A9-80D1-93A5F9F18111}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp.Shared", "WebinarApp\WebinarApp.Shared\WebinarApp.Shared.csproj", "{02FA9A58-04B8-43CB-8394-7501FEFB74AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp.Shared", "WebinarApp.Shared\WebinarApp.Shared.csproj", "{02FA9A58-04B8-43CB-8394-7501FEFB74AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp.Mobile", "WebinarApp\WebinarApp.Mobile\WebinarApp.Mobile.csproj", "{317ABA3E-BA26-47FB-9A2E-083041695F27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp.Mobile", "WebinarApp.Mobile\WebinarApp.Mobile.csproj", "{317ABA3E-BA26-47FB-9A2E-083041695F27}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp.Wasm", "WebinarApp\WebinarApp.Wasm\WebinarApp.Wasm.csproj", "{7145F301-35E2-46CE-B72B-EA3B73BA1B96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp.Wasm", "WebinarApp.Wasm\WebinarApp.Wasm.csproj", "{7145F301-35E2-46CE-B72B-EA3B73BA1B96}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp.Skia.Gtk", "WebinarApp\WebinarApp.Skia.Gtk\WebinarApp.Skia.Gtk.csproj", "{7173344D-6D7F-473F-A9AA-8B2AB281FF50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebinarApp.Skia.Gtk", "WebinarApp.Skia.Gtk\WebinarApp.Skia.Gtk.csproj", "{7173344D-6D7F-473F-A9AA-8B2AB281FF50}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{097EF5AB-3A35-4D35-BE00-3E6AA7572307}"
 	ProjectSection(SolutionItems) = preProject
-		WebinarApp\.gitignore = WebinarApp\.gitignore
-		WebinarApp\Directory.Build.props = WebinarApp\Directory.Build.props
-		WebinarApp\Directory.Build.targets = WebinarApp\Directory.Build.targets
-		WebinarApp\Directory.Packages.props = WebinarApp\Directory.Packages.props
-		WebinarApp\solution-config.props.sample = WebinarApp\solution-config.props.sample
+		.gitignore = .gitignore
+		Directory.Build.props = Directory.Build.props
+		Directory.Build.targets = Directory.Build.targets
+		Directory.Packages.props = Directory.Packages.props
+		solution-config.props.sample = solution-config.props.sample
 	EndProjectSection
 EndProject
 Global
